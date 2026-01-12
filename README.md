@@ -60,7 +60,7 @@ rendria-php/
 ### Install
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Ovuoba-Chiagozie/rendria-php.git
 cd rendria-php
 cp .env.example .env
 ```
